@@ -1,3 +1,10 @@
+# Programando a página inicial do Netflix com React
+
+isso não é uma copia e sim um estudo, não está sendo monetizado
+caso não apareça a imagem em Destaque só dar F5
+todos os direitos reservados da Netflix.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
